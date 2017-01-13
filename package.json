@@ -1,0 +1,6 @@
+{
+  "name": "vue-cli-template-webpack-mobile-f7",
+  "version": "2.0.0",
+  "license": "MIT",
+  "description": "A full-featured Webpack + Cordova setup for Framework7 with hot-reload, lint-on-save, unit testing & css extraction."
+}
