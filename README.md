@@ -30,6 +30,8 @@ $ npm run dev
 ```bash
 # add the platforms you need
 cordova platform add browser ios android
+# build
+npm run cordova-build
 # run on desired platform:
 # browser
 npm run cordova-run 
@@ -38,6 +40,17 @@ npm run cordova-run-ios
 # android
 npm run cordova-run-android
 ```
+
+Note: the above commands combine a build of the VueJS project and the relevant cordova command. e.g.:
+
+```bash
+npm run build
+cordova run browser
+```
+
+**NB:** To update the app that cordova is aware of, you need to build the Vue app with `npm run build`. This will clean and build the `www` folder. 
+
+**Note:** for now, this only allows for the standard eslint option
 
 ## What's Included
 
