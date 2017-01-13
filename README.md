@@ -1,5 +1,9 @@
 # vue-webpack-boilerplate
 
+```bash
+vue init AppointmentGuru/webpack-mobile-f7 my-project
+```
+
 > A full-featured Webpack setup with Cordova, Framework7, hot-reload, lint-on-save, unit testing & css extraction.
 
 > This template is Vue 2.0 compatible.
