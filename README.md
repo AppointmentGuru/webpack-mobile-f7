@@ -1,8 +1,10 @@
 # vue-webpack-boilerplate
 
-> A full-featured Webpack setup with hot-reload, lint-on-save, unit testing & css extraction.
+> A full-featured Webpack setup with Cordova, Framework7, hot-reload, lint-on-save, unit testing & css extraction.
 
 > This template is Vue 2.0 compatible.
+
+![Preview](http://blog.toast38coza.me/content/images/2017/01/Screen-Shot-2017-01-13-at-9.05.12-AM.png)
 
 ## Documentation
 
