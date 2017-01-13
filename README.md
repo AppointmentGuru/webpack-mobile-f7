@@ -25,6 +25,8 @@ $ npm run dev
 
 **To run on the cordova platform**
 
+(requires cordova (`npm install -g cordova`))
+
 ```bash
 # add the platforms you need
 platform add browser ios android
