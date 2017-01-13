@@ -59,7 +59,8 @@ module.exports = {
           "name": "Standard (https://github.com/feross/standard)",
           "value": "standard",
           "short": "Standard"
-        },
+        }
+        /*,
         {
           "name": "AirBNB (https://github.com/airbnb/javascript)",
           "value": "airbnb",
@@ -69,7 +70,7 @@ module.exports = {
           "name": "none (configure it yourself)",
           "value": "none",
           "short": "none"
-        }
+        }*/
       ]
     },
     "unit": {
