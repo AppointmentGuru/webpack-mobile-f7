@@ -28,7 +28,15 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 
 ## Mobile
 
-This app is setup to package via Cordova. We have already added the browser, ios and android platforms
+This app is setup to package via Cordova.
+
+**Add whichever platforms you would like to support:**
+
+```
+cordova platform add browser
+cordova platform add ios
+cordova platform add android
+```
 
 The following commands are available:
 

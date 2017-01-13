@@ -26,9 +26,15 @@ module.exports = {
       "message": "Bundle identifier",
       "default": "io.cordova.hellocordova"
     },
-    "author": {
+    "authorName": {
       "type": "string",
-      "message": "Author"
+      "message": "Author name",
+      "required": true
+    },
+    "authorEmail": {
+      "type": "string",
+      "message": "Author email",
+      "required": true
     },
     "build": {
       "type": "list",

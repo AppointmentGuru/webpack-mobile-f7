@@ -2,7 +2,7 @@
   "name": "f7",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "toast38coza <info@38.co.za>",
+  "author": "{{ authorName }} <{{ authorEmail }}>",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
