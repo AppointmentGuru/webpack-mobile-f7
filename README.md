@@ -29,7 +29,7 @@ $ npm run dev
 
 ```bash
 # add the platforms you need
-platform add browser ios android
+cordova platform add browser ios android
 # run on desired platform:
 # browser
 npm run cordova-run 
